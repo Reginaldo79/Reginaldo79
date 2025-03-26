@@ -6,7 +6,7 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo este espaço para minha organização e compartilhamento dos meus projetos deseenvolvidos
 
-**# Você entra em contato comigo 📮**
+**# entre em contato comigo 📮**
 
 silva.filho.reginaldo@escola.pr.gov.br
 
